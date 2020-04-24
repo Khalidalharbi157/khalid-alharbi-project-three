@@ -54,6 +54,7 @@ main {
   margin-left: auto;
   max-width: 1280px;
   padding: 1em;
+  padding-bottom: 4em;
 }
 
 article {
@@ -125,4 +126,4 @@ li.small-horizontal {
 
   ul {
    grid-auto-rows: 300px;
-  }
+ }
