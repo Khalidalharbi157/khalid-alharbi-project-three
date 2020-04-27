@@ -160,6 +160,22 @@ li.small-horizontal {
       max-width: 850px;
   }
 
+  h1 {
+    padding-right: 0;
+  }
+
+  h2 {
+    padding-right: 0;
+  }
+
+  h3 {
+    padding-right: 0;
+  }
+
+  h4 {
+    padding-right: 0;
+  }
+
 }
 
 @media (max-width: 912px ) {
